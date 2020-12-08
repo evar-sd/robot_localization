@@ -2,3 +2,7 @@ doc/html
 *.cproject
 *.project
 *.settings
+
+.jproject
+cscope.*
+
